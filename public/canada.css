@@ -1,0 +1,1353 @@
+.frame-child2 {
+  top: 0;
+  width: 1440px;
+  height: 3122px;
+}
+.frame-child2,
+.group-inner,
+.rectangle-header {
+  position: absolute;
+  left: 0;
+  background-color: #c6c6c6;
+}
+.rectangle-header {
+  top: 0;
+  border-bottom: 0.2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 74.2px;
+}
+.group-inner {
+  top: 19px;
+  width: 194.3px;
+  height: 51px;
+}
+.group-div,
+.mchs2 {
+  position: absolute;
+  top: 0;
+}
+.mchs2 {
+  margin: 0;
+  left: 69.5px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  background: linear-gradient(100.84deg, #e4e81a, #e5881b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 111.4px;
+  height: 53px;
+  text-shadow: 0.6px 0 0#000, 0 0.6px 0#000, -0.6px 0 0#000, 0-0.6px 0#000;
+  backdrop-filter: blur(4px);
+  min-width: 111.4px;
+}
+.group-div {
+  left: 22.6px;
+  width: 194.3px;
+  height: 70px;
+  font-size: var(--font-size-26xl);
+  font-family: var(--font-knewave);
+}
+.frame-child3 {
+  position: absolute;
+  top: 20px;
+  left: 456px;
+  background-color: var(--color-white);
+  width: 136px;
+  height: 30px;
+  cursor: pointer;
+}
+.study2 {
+  position: absolute;
+  top: 26px;
+  left: 500px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 47px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+}
+.frame-child4 {
+  position: absolute;
+  top: 20px;
+  left: 769px;
+  background-color: var(--color-white);
+  width: 136px;
+  height: 30px;
+}
+.book-for-abroad2 {
+  position: absolute;
+  top: 26px;
+  left: 775px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 125px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+  min-width: 125px;
+}
+.frame-child5 {
+  position: absolute;
+  top: 20px;
+  left: 925px;
+  background-color: var(--color-white);
+  width: 136px;
+  height: 30px;
+  cursor: pointer;
+}
+.about-us2 {
+  position: absolute;
+  top: 26px;
+  left: 946px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 95px;
+  height: 19px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+}
+.social-media-links1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(90deg, #e4e81a, #e5881b);
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+.explore-option2 {
+  position: absolute;
+  top: 10px;
+  left: 12.3px;
+  display: inline-block;
+  width: 111.4px;
+  height: 18px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+}
+.support-services {
+  position: absolute;
+  top: 15px;
+  left: 1301px;
+  width: 136px;
+  height: 39px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-100);
+}
+.undo-icon2 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 50px;
+  height: 42px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frame-child6 {
+  position: absolute;
+  top: 14px;
+  left: 260.4px;
+  width: 0.3px;
+  height: 53px;
+  object-fit: contain;
+}
+.group-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 133px;
+  height: 30px;
+}
+.countries2 {
+  position: absolute;
+  top: 6px;
+  left: 10px;
+  display: inline-block;
+  width: 87px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+}
+.group-child2,
+.group-child3,
+.group-child4,
+.group-child5,
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-white);
+  width: 133px;
+  height: 30px;
+}
+.group-child3,
+.group-child4,
+.group-child5,
+.group-child6 {
+  top: 30px;
+}
+.group-child4,
+.group-child5,
+.group-child6 {
+  top: 60px;
+}
+.group-child5,
+.group-child6 {
+  top: 90px;
+}
+.group-child6 {
+  top: 120px;
+}
+.canada2,
+.germany2,
+.ireland2,
+.study-abroad-resources3,
+.united-kingdoms2 {
+  position: absolute;
+  top: 6px;
+  left: 10px;
+  display: inline-block;
+  width: 102px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+}
+.canada2,
+.germany2,
+.ireland2,
+.study-abroad-resources3 {
+  top: 36px;
+  width: 87px;
+}
+.germany2,
+.ireland2,
+.study-abroad-resources3 {
+  top: 66px;
+}
+.germany2,
+.study-abroad-resources3 {
+  top: 96px;
+}
+.study-abroad-resources3 {
+  top: 129px;
+  font-size: var(--font-size-3xs);
+  width: 120px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  width: 100%;
+  height: 150px;
+  font-size: var(--font-size-xs);
+}
+.chevron-down-icon2 {
+  position: absolute;
+  top: 0;
+  left: 99px;
+  width: 34px;
+  height: 30px;
+  object-fit: cover;
+}
+.group-wrapper,
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 186px;
+}
+.group-wrapper {
+  top: 22px;
+  left: 594px;
+  width: 133px;
+  height: 30px;
+  overflow-y: auto;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+}
+.frame-child7 {
+  position: absolute;
+  top: 74px;
+  left: 0;
+  width: 1440px;
+  height: 749px;
+  object-fit: cover;
+}
+.frame-child8 {
+  position: absolute;
+  top: 135px;
+  left: 80px;
+  background-color: var(--color-gray-500);
+  width: 1268px;
+  height: 147px;
+}
+.gateway-to-excellence {
+  position: absolute;
+  top: 146px;
+  left: 241px;
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray-700);
+  text-align: center;
+  display: inline-block;
+  width: 945px;
+  height: 122px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+}
+.frame-child9 {
+  position: absolute;
+  top: 722px;
+  left: 454px;
+  background-color: var(--color-gray-500);
+  width: 520px;
+  height: 70px;
+}
+.take-counselling2 {
+  margin: 0;
+  position: absolute;
+  top: 732px;
+  left: 466px;
+  font-size: var(--font-size-21xl);
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-gray-700);
+  text-align: center;
+  display: inline-block;
+  width: 482px;
+  height: 48px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+}
+.benefits-of-studying2,
+.education-in-canada,
+.facts-about-canada,
+.living-and-working2 {
+  margin: 0;
+  position: absolute;
+  top: 880px;
+  left: 44px;
+  font-size: var(--font-size-36xl);
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-black);
+  display: inline-block;
+  width: 652px;
+  height: 68px;
+}
+.benefits-of-studying2,
+.education-in-canada,
+.living-and-working2 {
+  top: 1111px;
+  width: 904px;
+}
+.education-in-canada,
+.living-and-working2 {
+  top: 1487px;
+}
+.education-in-canada {
+  top: 2158px;
+  left: 48px;
+}
+.canada-with-its,
+.moreover-irelands-strong1,
+.studying-in-ireland1 {
+  position: absolute;
+  left: 78px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  display: inline-block;
+}
+.canada-with-its {
+  top: 966px;
+  font-family: var(--font-inter);
+  text-align: left;
+  width: 1285px;
+}
+.moreover-irelands-strong1,
+.studying-in-ireland1 {
+  top: 1228px;
+  width: 1286px;
+}
+.moreover-irelands-strong1 {
+  top: 1342px;
+  text-align: left;
+  width: 1285px;
+}
+.culture1,
+.moreover-irelands-strong1 {
+  font-family: var(--font-inter);
+}
+.culture-irish-are-considered1 {
+  margin: 0;
+}
+.welfare1 {
+  font-family: var(--font-inter);
+}
+.welfare-ireland-has-a-very-l1 {
+  margin: 0;
+}
+.transpor1 {
+  font-family: var(--font-inter);
+}
+.transport-all-the-cities-in1 {
+  margin: 0;
+}
+.working-as-a1 {
+  font-family: var(--font-inter);
+}
+.working-as-a-student-all-the1 {
+  margin: 0;
+}
+.student-life1 {
+  font-family: var(--font-inter);
+}
+.student-life-ireland-has-one1 {
+  margin: 0;
+}
+.culture-irish-are-container1 {
+  position: absolute;
+  top: 1604px;
+  left: 78px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 1285px;
+  font-family: var(--font-inter);
+}
+.frame-child10 {
+  position: absolute;
+  top: 2200px;
+  /* left: 51px; */
+  width: 1348px;
+  height: 562px;
+}
+.frame-child11 {
+  position: absolute;
+  top: 2060px;
+  left: 88px;
+  width: 1311px;
+  height: 5px;
+  object-fit: contain;
+}
+.frame-child12,
+.study-ace2,
+.who-we-are2 {
+  position: absolute;
+  backdrop-filter: blur(4px);
+}
+.frame-child12 {
+  top: 2903.5px;
+  left: 0;
+  background-color: var(--color-gray-700);
+  border-top: 0.5px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 218.5px;
+}
+.study-ace2,
+.who-we-are2 {
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.study-ace2 {
+  margin: 0;
+  top: 2934px;
+  left: 141px;
+  font-size: var(--font-size-16xl);
+  line-height: 35px;
+  font-weight: 400;
+  font-family: inherit;
+  width: 171px;
+  height: 35px;
+}
+.who-we-are2 {
+  top: 2941px;
+  left: 441px;
+  width: 112px;
+  height: 24px;
+}
+.connect-on-social2,
+.follow-us-on2,
+.our-story2,
+.student-support-services2 {
+  position: absolute;
+  top: 2988px;
+  left: 441px;
+  display: inline-block;
+  width: 91px;
+  height: 24px;
+  backdrop-filter: blur(4px);
+}
+.connect-on-social2,
+.follow-us-on2,
+.student-support-services2 {
+  left: 737px;
+  width: 239px;
+}
+.connect-on-social2,
+.follow-us-on2 {
+  left: 1076px;
+  width: 233px;
+}
+.follow-us-on2 {
+  top: 3016px;
+  width: 218px;
+}
+.twitter-updates2 {
+  top: 3045px;
+  left: 1076px;
+  width: 149px;
+  height: 24px;
+}
+.connect-with-peers2,
+.get-assistance2,
+.questions-answers2,
+.twitter-updates2 {
+  position: absolute;
+  display: inline-block;
+  backdrop-filter: blur(4px);
+}
+.connect-with-peers2 {
+  top: 3073px;
+  left: 1076px;
+  line-height: 20px;
+  width: 185px;
+  height: 20px;
+}
+.get-assistance2,
+.questions-answers2 {
+  top: 3016px;
+  left: 737px;
+  width: 201px;
+  height: 24px;
+}
+.get-assistance2 {
+  top: 3045px;
+  line-height: 20px;
+  width: 140px;
+  height: 20px;
+}
+.career-oppurtunities2,
+.media-resources2,
+.program-offering2 {
+  position: absolute;
+  top: 3016px;
+  left: 441px;
+  display: inline-block;
+  width: 195px;
+  height: 24px;
+  backdrop-filter: blur(4px);
+}
+.media-resources2,
+.program-offering2 {
+  top: 3045px;
+  width: 157px;
+}
+.program-offering2 {
+  top: 3073px;
+  line-height: 20px;
+  width: 160px;
+  height: 20px;
+}
+.academic-guidance2,
+.join-student-community2 {
+  position: absolute;
+  top: 2941px;
+  left: 736px;
+  display: inline-block;
+  width: 186px;
+  height: 24px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+}
+.join-student-community2 {
+  left: 1076px;
+  width: 228px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-800);
+  font-family: var(--font-inter);
+}
+.desktop-8 {
+  width: 100%;
+  height: 1024px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 767px) {
+  .mchs2 {
+    font-size: 36px;
+  }
+  .gateway-to-excellence {
+    font-size: var(--font-size-21xl);
+  }
+  .take-counselling2 {
+    font-size: var(--font-size-13xl);
+  }
+  .benefits-of-studying2,
+  .education-in-canada,
+  .facts-about-canada,
+  .living-and-working2 {
+    font-size: var(--font-size-25xl);
+  }
+  .study-ace2 {
+    font-size: var(--font-size-9xl);
+    line-height: 28px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .mchs2 {
+    font-size: 27px;
+  }
+  .gateway-to-excellence {
+    font-size: var(--font-size-11xl);
+  }
+  .take-counselling2 {
+    font-size: var(--font-size-5xl);
+  }
+  .benefits-of-studying2,
+  .education-in-canada,
+  .facts-about-canada,
+  .living-and-working2 {
+    font-size: var(--font-size-14xl);
+  }
+  .study-ace2 {
+    font-size: var(--font-size-2xl);
+    line-height: 21px;
+  }
+  .connect-on-social2,
+  .follow-us-on2,
+  .our-story2,
+  .student-support-services2,
+  .twitter-updates2,
+  .who-we-are2 {
+    font-size: var(--font-size-base);
+  }
+  .connect-with-peers2 {
+    line-height: 16px;
+  }
+  .connect-with-peers2,
+  .questions-answers2 {
+    font-size: var(--font-size-base);
+  }
+  .get-assistance2 {
+    line-height: 16px;
+  }
+  .career-oppurtunities2,
+  .get-assistance2,
+  .media-resources2 {
+    font-size: var(--font-size-base);
+  }
+  .program-offering2 {
+    line-height: 16px;
+  }
+  .academic-guidance2,
+  .join-student-community2,
+  .program-offering2 {
+    font-size: var(--font-size-base);
+  }
+}
+
+
+
+
+
+.group-item,
+.main-content-child,
+.main-content-item {
+  position: absolute;
+  background-color: var(--color-white);
+}
+.main-content-child {
+  top: 11px;
+  left: 1px;
+  width: 1440px;
+  height: 3130px;
+}
+.group-item,
+.main-content-item {
+  left: 0;
+}
+.main-content-item {
+  top: 11px;
+  border-bottom: 0.2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 59.2px;
+}
+.group-item {
+  top: 19px;
+  width: 194.3px;
+  height: 51px;
+}
+.mchs1 {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 69.5px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  background: linear-gradient(100.84deg, #e4e81a, #e5881b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 111.4px;
+  height: 53px;
+  text-shadow: 0.6px 0 0#000, 0 0.6px 0#000, -0.6px 0 0#000, 0-0.6px 0#000;
+  backdrop-filter: blur(4px);
+  min-width: 111.4px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 19.6px;
+  width: 194.3px;
+  height: 70px;
+  font-size: var(--font-size-26xl);
+  font-family: var(--font-knewave);
+}
+.main-content-inner {
+  position: absolute;
+  top: 20px;
+  left: 453px;
+  background-color: var(--color-white);
+  width: 136px;
+  height: 30px;
+  cursor: pointer;
+}
+.study1 {
+  position: absolute;
+  top: 26px;
+  left: 497px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 47px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+}
+.main-content-child1 {
+  position: absolute;
+  top: 20px;
+  left: 766px;
+  background-color: var(--color-white);
+  width: 136px;
+  height: 30px;
+}
+.book-for-abroad1 {
+  position: absolute;
+  top: 26px;
+  left: 772px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 125px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+  min-width: 125px;
+  z-index:2;
+}
+a
+{
+  text-decoration:none !important;
+  
+}
+.main-content-child2 {
+  position: absolute;
+  top: 20px;
+  left: 922px;
+  background-color: var(--color-white);
+  width: 136px;
+  height: 30px;
+  cursor: pointer;
+}
+.about-us1 {
+  position: absolute;
+  top: 26px;
+  left: 943px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 95px;
+  height: 19px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+  z-index:2;
+}
+.study-options {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(90deg, #e4e81a, #e5881b);
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+.explore-option1 {
+  position: absolute;
+  top: 10px;
+  left: 12.3px;
+  display: inline-block;
+  width: 111.4px;
+  height: 18px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+  z-index:2;
+}
+.study-options-parent {
+  position: absolute;
+  top: 15px;
+  left: 1298px;
+  width: 136px;
+  height: 39px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-100);
+}
+.main-content-child3,
+.undo-icon1 {
+  position: absolute;
+  object-fit: contain;
+}
+.undo-icon1 {
+  top: 11px;
+  left: 0;
+  width: 50px;
+  height: 42px;
+  cursor: pointer;
+}
+.main-content-child3 {
+  top: 14px;
+  left: 257.4px;
+  width: 0.3px;
+  height: 53px;
+}
+.united-kingdom-canada-ireland {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 133px;
+  height: 30px;
+}
+.countries1 {
+  position: absolute;
+  top: 6px;
+  left: 10px;
+  display: inline-block;
+  width: 87px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+}
+.social-media-links-child,
+.social-media-links-child1,
+.social-media-links-child2,
+.social-media-links-inner,
+.social-media-links-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-white);
+  width: 133px;
+  height: 30px;
+}
+.social-media-links-child1,
+.social-media-links-child2,
+.social-media-links-inner,
+.social-media-links-item {
+  top: 30px;
+}
+.social-media-links-child1,
+.social-media-links-child2,
+.social-media-links-inner {
+  top: 60px;
+}
+.social-media-links-child1,
+.social-media-links-child2 {
+  top: 90px;
+}
+.social-media-links-child2 {
+  top: 120px;
+}
+.canada1,
+.germany1,
+.ireland1,
+.study-abroad-resources2,
+.united-kingdoms1 {
+  position: absolute;
+  top: 6px;
+  left: 10px;
+  display: inline-block;
+  width: 102px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+}
+.canada1,
+.germany1,
+.ireland1,
+.study-abroad-resources2 {
+  top: 36px;
+  width: 87px;
+}
+.germany1,
+.ireland1,
+.study-abroad-resources2 {
+  top: 66px;
+}
+.germany1,
+.study-abroad-resources2 {
+  top: 96px;
+}
+.study-abroad-resources2 {
+  top: 129px;
+  font-size: var(--font-size-3xs);
+  width: 120px;
+}
+.social-media-links {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  width: 100%;
+  height: 150px;
+  font-size: var(--font-size-xs);
+}
+.chevron-down-icon1 {
+  position: absolute;
+  top: 0;
+  left: 99px;
+  width: 34px;
+  height: 30px;
+  object-fit: contain;
+}
+.frame-div,
+.united-kingdom-canada-ireland-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 186px;
+}
+.tp 
+{
+  background-color: #333;
+}
+.frame-div {
+  top: 23px;
+  left: 591px;
+  width: 133px;
+  height: 30px;
+  overflow-y: auto;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+}
+.rectangle-icon {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  width: 1440px;
+  height: 749px;
+  object-fit: cover;
+}
+.main-content-child4 {
+  position: absolute;
+  top: 131px;
+  left: 80px;
+  background-color: var(--color-gray-500);
+  width: 1268px;
+  height: 147px;
+}
+.seize-your-opportunity {
+  margin: 0;
+}
+.seize-your-opportunity-container {
+  position: absolute;
+  top: 142px;
+  left: 241px;
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray-700);
+  text-align: center;
+  display: inline-block;
+  width: 945px;
+  height: 122px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+}
+.take-counseling {
+  position: absolute;
+  top: 718px;
+  left: 454px;
+  background-color: var(--color-gray-500);
+  width: 520px;
+  height: 70px;
+}
+.take-counselling1 {
+  margin: 0;
+  position: absolute;
+  top: 728px;
+  left: 466px;
+  font-size: var(--font-size-21xl);
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-gray-700);
+  text-align: center;
+  display: inline-block;
+  width: 482px;
+  height: 48px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+}
+.benefits-of-studying1,
+.education-in-ireland,
+.facts-about-ireland,
+.living-and-working1 {
+  margin: 0;
+  position: absolute;
+  top: 876px;
+  left: 44px;
+  font-size: var(--font-size-36xl);
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-black);
+  display: inline-block;
+  width: 652px;
+  height: 68px;
+}
+.benefits-of-studying1,
+.education-in-ireland,
+.living-and-working1 {
+  top: 1107px;
+  width: 904px;
+}
+.education-in-ireland,
+.living-and-working1 {
+  top: 1483px;
+}
+.education-in-ireland {
+  top: 2121px;
+  left: 48px;
+}
+.ireland-known-as,
+.moreover-irelands-strong,
+.studying-in-ireland {
+  position: absolute;
+  left: 78px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  display: inline-block;
+}
+.ireland-known-as {
+  top: 962px;
+  font-family: var(--font-inter);
+  text-align: left;
+  width: 1285px;
+}
+.moreover-irelands-strong,
+.studying-in-ireland {
+  top: 1224px;
+  width: 1286px;
+}
+.moreover-irelands-strong {
+  top: 1338px;
+  text-align: left;
+  width: 1285px;
+}
+.culture,
+.moreover-irelands-strong {
+  font-family: var(--font-inter);
+}
+.culture-irish-are-considered {
+  margin: 0;
+}
+.welfare {
+  font-family: var(--font-inter);
+}
+.welfare-ireland-has-a-very-l {
+  margin: 0;
+}
+.transpor {
+  font-family: var(--font-inter);
+}
+.transport-all-the-cities-in {
+  margin: 0;
+}
+.working-as-a {
+  font-family: var(--font-inter);
+}
+.working-as-a-student-all-the {
+  margin: 0;
+}
+.student-life {
+  font-family: var(--font-inter);
+}
+.student-life-ireland-has-one {
+  margin: 0;
+}
+.culture-irish-are-container {
+  position: absolute;
+  top: 1600px;
+  left: 78px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 1285px;
+  font-family: var(--font-inter);
+}
+.main-content-child5 {
+  position: absolute;
+  top: 2917.5px;
+  left: 1px;
+  backdrop-filter: blur(4px);
+  background-color: var(--color-gray-700);
+  border-top: 0.5px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 223.5px;
+}
+.study-ace1,
+.who-we-are1 {
+  position: absolute;
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+}
+.study-ace1 {
+  margin: 0;
+  top: 2948px;
+  left: 137px;
+  font-size: var(--font-size-16xl);
+  line-height: 36px;
+  font-weight: 400;
+  font-family: inherit;
+  width: 171px;
+  height: 36px;
+}
+.who-we-are1 {
+  top: 2956px;
+  left: 437px;
+  width: 112px;
+  height: 24px;
+}
+.connect-on-social1,
+.follow-us-on1,
+.our-story1,
+.student-support-services1 {
+  position: absolute;
+  top: 3003px;
+  left: 437px;
+  display: inline-block;
+  width: 91px;
+  height: 24px;
+  backdrop-filter: blur(4px);
+}
+.connect-on-social1,
+.follow-us-on1,
+.student-support-services1 {
+  left: 733px;
+  width: 239px;
+}
+.connect-on-social1,
+.follow-us-on1 {
+  left: 1072px;
+  width: 233px;
+}
+.follow-us-on1 {
+  top: 3033px;
+  width: 218px;
+}
+.twitter-updates1 {
+  top: 3062px;
+  left: 1072px;
+  width: 149px;
+  height: 24px;
+}
+.connect-with-peers1,
+.get-assistance1,
+.questions-answers1,
+.twitter-updates1 {
+  position: absolute;
+  display: inline-block;
+  backdrop-filter: blur(4px);
+}
+.connect-with-peers1 {
+  top: 3091px;
+  left: 1072px;
+  line-height: 21px;
+  width: 185px;
+  height: 21px;
+}
+.get-assistance1,
+.questions-answers1 {
+  top: 3033px;
+  left: 733px;
+  width: 201px;
+  height: 24px;
+}
+.get-assistance1 {
+  top: 3062px;
+  line-height: 21px;
+  width: 140px;
+  height: 21px;
+}
+.career-oppurtunities1,
+.media-resources1,
+.program-offering1 {
+  position: absolute;
+  top: 3033px;
+  left: 437px;
+  display: inline-block;
+  width: 195px;
+  height: 24px;
+  backdrop-filter: blur(4px);
+}
+.media-resources1,
+.program-offering1 {
+  top: 3062px;
+  width: 157px;
+}
+.program-offering1 {
+  top: 3091px;
+  line-height: 21px;
+  width: 160px;
+  height: 21px;
+}
+.academic-guidance1,
+.join-student-community1 {
+  position: absolute;
+  top: 2956px;
+  left: 732px;
+  display: inline-block;
+  width: 186px;
+  height: 24px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+}
+.join-student-community1 {
+  left: 1072px;
+  width: 228px;
+}
+.main-content-child6 {
+  position: absolute;
+  top: 2056px;
+  left: 88px;
+  width: 1311px;
+  height: 5px;
+  object-fit: contain;
+}
+.main-content-child7 {
+  position: absolute;
+  top: 2246px;
+  left: 61px;
+  background-color: var(--color-gainsboro);
+  width: 1348px;
+  height: 562px;
+}
+.main-content {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-800);
+  font-family: var(--font-inter);
+}
+.desktop-7 {
+  width: 100%;
+  height: 1024px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 767px) {
+  .seize-your-opportunity-container {
+    font-size: var(--font-size-21xl);
+  }
+  .take-counselling1 {
+    font-size: var(--font-size-13xl);
+  }
+  .benefits-of-studying1,
+  .education-in-ireland,
+  .facts-about-ireland,
+  .living-and-working1 {
+    font-size: var(--font-size-25xl);
+  }
+  .study-ace1 {
+    font-size: var(--font-size-9xl);
+    line-height: 29px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .seize-your-opportunity-container {
+    font-size: var(--font-size-11xl);
+  }
+  .take-counselling1 {
+    font-size: var(--font-size-5xl);
+  }
+  .benefits-of-studying1,
+  .education-in-ireland,
+  .facts-about-ireland,
+  .living-and-working1 {
+    font-size: var(--font-size-14xl);
+  }
+  .study-ace1 {
+    font-size: var(--font-size-2xl);
+    line-height: 22px;
+  }
+  .connect-on-social1,
+  .follow-us-on1,
+  .our-story1,
+  .student-support-services1,
+  .twitter-updates1,
+  .who-we-are1 {
+    font-size: var(--font-size-base);
+  }
+  .connect-with-peers1 {
+    line-height: 17px;
+  }
+  .connect-with-peers1,
+  .questions-answers1 {
+    font-size: var(--font-size-base);
+  }
+  .get-assistance1 {
+    line-height: 17px;
+  }
+  .career-oppurtunities1,
+  .get-assistance1,
+  .media-resources1 {
+    font-size: var(--font-size-base);
+  }
+  .program-offering1 {
+    line-height: 17px;
+  }
+  .academic-guidance1,
+  .join-student-community1,
+  .program-offering1 {
+    font-size: var(--font-size-base);
+  }
+}
